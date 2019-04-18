@@ -1,0 +1,4 @@
+name: AntiBookDupe
+version: 1.0
+main: cn.box.spigot.Anti.Main
+authors: [box]
